@@ -1,5 +1,8 @@
 # POSist
 
+The code can be run using the Client file with main function for taking input and finding output.
+There are added comments in the code corresponding to every query.
+
 Encryption Format :
 I am ecrypting the data in  node using it ownerid and the first character of the owner name.
 Procedure:
@@ -13,5 +16,4 @@ Procedure:
 And vice versa for decryption.
 
 Also, I have completed 8 out of the given 10 queries. 
-There are added comments in the code corresponding to every query.
-The code can be run using the Client file with main function for taking input and finding output. 
+ 
